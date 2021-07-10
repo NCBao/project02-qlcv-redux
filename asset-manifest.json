@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/project02-qlcv-redux/static/css/main.9bd594e5.chunk.css",
+    "main.js": "/project02-qlcv-redux/static/js/main.8320db00.chunk.js",
+    "main.js.map": "/project02-qlcv-redux/static/js/main.8320db00.chunk.js.map",
+    "runtime-main.js": "/project02-qlcv-redux/static/js/runtime-main.499117d5.js",
+    "runtime-main.js.map": "/project02-qlcv-redux/static/js/runtime-main.499117d5.js.map",
+    "static/js/2.1aa4b949.chunk.js": "/project02-qlcv-redux/static/js/2.1aa4b949.chunk.js",
+    "static/js/2.1aa4b949.chunk.js.map": "/project02-qlcv-redux/static/js/2.1aa4b949.chunk.js.map",
+    "static/js/3.224b613c.chunk.js": "/project02-qlcv-redux/static/js/3.224b613c.chunk.js",
+    "static/js/3.224b613c.chunk.js.map": "/project02-qlcv-redux/static/js/3.224b613c.chunk.js.map",
+    "index.html": "/project02-qlcv-redux/index.html",
+    "static/css/main.9bd594e5.chunk.css.map": "/project02-qlcv-redux/static/css/main.9bd594e5.chunk.css.map",
+    "static/js/2.1aa4b949.chunk.js.LICENSE.txt": "/project02-qlcv-redux/static/js/2.1aa4b949.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.499117d5.js",
+    "static/js/2.1aa4b949.chunk.js",
+    "static/css/main.9bd594e5.chunk.css",
+    "static/js/main.8320db00.chunk.js"
+  ]
+}
